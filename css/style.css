@@ -413,7 +413,6 @@ button:focus {
 .home_banner_area .banner_inner .banner_content .banner_map_img {
   text-align: right;
 }
-
 .blog_banner {
   min-height: 780px;
   position: relative;
@@ -694,7 +693,10 @@ button:focus {
   padding-top: 80px;
   padding-bottom: 80px;
 }
-
+.list_hover:hover{
+  background-color: #000;
+  border-radius: 10px;
+}
 .categories_post {
   position: relative;
   text-align: center;
